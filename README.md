@@ -1,4 +1,6 @@
 # foldersandsubfolders_powershell
+**#NOTE**
+**Tested on Powershell version 5.1.19041.2673 - Windows 10 Professional**
 List Folders and Subfolders retrieving their security permissions, ownership and inheritance status
 1) Open PowerShell as administrator 
 2) Enter command below
